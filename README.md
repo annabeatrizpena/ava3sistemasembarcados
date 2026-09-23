@@ -48,7 +48,7 @@ A simulação foi realizada no Wokwi (https://wokwi.com/projects/475967892306044
 
 ## Referências
 
-O objetivo
+WOKWI. Wokwi: online electronics simulator. Wokwi B.V., [s.d.]. Disponível em: https://wokwi.com/. Acesso em: 23 set. 2026. 
 
 ## Autora
 
